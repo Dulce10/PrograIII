@@ -1,0 +1,6 @@
+controlador\jornadas.class
+modelo\conexión.class
+modelo\carreraDAO.class
+controlador\carreras.class
+vista\principal.class
+modelo\jornadasDAO.class
